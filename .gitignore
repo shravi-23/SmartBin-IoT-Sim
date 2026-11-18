@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+dist/
+# Python cache & venv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
